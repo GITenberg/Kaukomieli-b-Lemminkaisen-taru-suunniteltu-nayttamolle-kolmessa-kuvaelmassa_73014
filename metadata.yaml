@@ -1,5 +1,8 @@
 _repo: Kaukomieli-b-Lemminkaisen-taru-suunniteltu-nayttamolle-kolmessa-kuvaelmassa_73014
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Angervo, Willie
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56908
     wikipedia: https://fi.wikipedia.org/wiki/Willie_Angervo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73014#Kaukomieli-b-Lemminkaisen-taru-suunniteltu-nayttamolle-kolmessa-kuvaelmassa
 gutenberg_issued: '2024-02-22'
 gutenberg_type: Text
 identifiers:
